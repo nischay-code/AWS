@@ -1,0 +1,55 @@
+*What Is Cloud Computing
+ In simple words Cloud Cornputirw enables on-demand services compute, storage, networking, et
+ which can be accessed through the internet and the user is not required to manage these resources
+
+*Features 
+a.Pay As You Go
+b.Secure and Disaster Recovery
+c.Scalable
+d.Flexible
+
+
+*Cloud Service Models
+-IaaS
+-PaaS
+-SaaS
+
+
+*Cloud Deployment Models
+-Private
+-Community
+-Public
+-Hybrid
+
+
+*What Is AWS?
+ AWS is a Cloud Service Provider that enables on-demand services like compute, storage, networking, etc
+ which can be accessed through the internet and the user is not required to manage these resources
+
+ *Features
+  -Cost Effective
+  -Pay As You Go
+  -Security
+  -Availability and Disaster Recovery
+  -Flexible
+  -Scalable
+
+  *AWS Career
+   -Top 5 Soft Skils
+    :- Creativity
+    :- Persuasion
+    :- Collaboration
+    :- Adaptability
+    :- Emotional intelligence
+
+   -Top IO Hard Skills
+    :-Blockchain
+    :-Cloud computing
+    :-Analytical reasoning
+    :-Artificial intelligence
+    :-UX design
+
+**PayScale statistics show that Average Cloud Engineer Salary in India is 7-9LPA
+-Cloud Architect
+-Cloud Developer
+-Cloud Administrator
